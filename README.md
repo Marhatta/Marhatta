@@ -21,10 +21,9 @@ Here are some ideas to get you started:
  <div>
   <a href='https://www.youtube.com/channel/UCRWb7Of3KbI5Iy0LekuttNw'><img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/icons8-youtube-squared-480.png' width='80' height='80'/></a>
 
-<p>Contact me on - vishal.marhatta@gmail.com</p>
-  
-  </div>
+<p>Email - vishal.marhatta@gmail.com</p>
+<p><a href='https://www.linkedin.com/in/vishal-marhatta-749068140/'> Find me on LinkedIn</a> </p>
+ </div>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Marhatta&show_icons=true)
-  
 </div>
