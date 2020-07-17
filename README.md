@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ##
 <div>
-  <img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/_Hello%2C%20my%20name%20is%20Vishal%20__.%20Nice%20to%20meet%20you..png'  height='400'  align='center'/>
+  <img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/_Hello%2C%20my%20name%20is%20Vishal%20__.%20Nice%20to%20meet%20you..png'  height='200'  align='center'/>
 
 ### <p>Email - vishal.marhatta@gmail.com</p>
 ### <p><a href='https://www.linkedin.com/in/vishal-marhatta-749068140/'> Find me on LinkedIn</a> </p>
