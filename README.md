@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 
 
-  <p><a href='https://www.youtube.com/channel/UCRWb7Of3KbI5Iy0LekuttNw'> 📫 Find me on</a></p>
-  <div>
+  <p>📫 Find me on</p>
+  
   <a href='https://www.youtube.com/channel/UCRWb7Of3KbI5Iy0LekuttNw'><img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/icons8-youtube-squared-480.png' width='50' height='50'/></a>
   
   <a href='https://www.linkedin.com/in/vishal-marhatta-749068140/' ><img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/icons8-linkedin-512.png' width='50' height='50'/></a>
