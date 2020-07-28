@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img src='https://raw.githubusercontent.com/Marhatta/Marhatta/master/_Hello%2C%20my%20name%20is%20Vishal%20__.%20Nice%20to%20meet%20you..png'  height='300'  align='center'/>
+
 
 ### <p>Email - vishal.marhatta@gmail.com</p>
 
