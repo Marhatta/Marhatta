@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Marhatta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marhatta" alt="marhatta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Marhatta" alt="marhatta" /></a> </p>
 
 - 💬 Ask me about **Javascript, React, React Native, Nodejs**
 
